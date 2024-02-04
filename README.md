@@ -1,6 +1,6 @@
 # 3D Pyrography
 
-<p align="center">
+<p align="left">
 <img src="3Dpyrography.JPG" width="50%" />
 </p>
 
